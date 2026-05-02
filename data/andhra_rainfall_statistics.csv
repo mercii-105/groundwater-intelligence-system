@@ -1,0 +1,85 @@
+level,name,period,mean_rainfall_mm,cv_percent
+State,Andhra Pradesh,June,96.3,55.4
+State,Andhra Pradesh,July,127.5,37.7
+State,Andhra Pradesh,August,142.5,31.1
+State,Andhra Pradesh,September,146.3,32.7
+State,Andhra Pradesh,JJAS (SW Monsoon),512.6,21.2
+State,Andhra Pradesh,Annual,903.6,18.0
+District,Anantapur,June,62.4,60.0
+District,Anantapur,July,55.3,66.0
+District,Anantapur,August,81.3,55.0
+District,Anantapur,September,115.7,55.0
+District,Anantapur,JJAS (SW Monsoon),314.7,32.0
+District,Anantapur,Annual,558.5,76.0
+District,Chittoor,June,80.3,66.0
+District,Chittoor,July,99.2,55.0
+District,Chittoor,August,114.8,48.0
+District,Chittoor,September,133.6,37.0
+District,Chittoor,JJAS (SW Monsoon),427.9,27.0
+District,Chittoor,Annual,946.0,24.0
+District,Cuddapah,June,70.8,289.0
+District,Cuddapah,July,88.6,64.0
+District,Cuddapah,August,109.4,52.0
+District,Cuddapah,September,116.5,49.0
+District,Cuddapah,JJAS (SW Monsoon),385.3,72.0
+District,Cuddapah,Annual,714.7,66.0
+District,East Godavari,June,141.2,56.0
+District,East Godavari,July,205.5,39.0
+District,East Godavari,August,197.2,40.0
+District,East Godavari,September,188.9,52.0
+District,East Godavari,JJAS (SW Monsoon),732.7,26.0
+District,East Godavari,Annual,1151.1,53.0
+District,Guntur,June,104.2,201.0
+District,Guntur,July,146.3,48.0
+District,Guntur,August,166.1,42.0
+District,Guntur,September,157.0,49.0
+District,Guntur,JJAS (SW Monsoon),573.6,55.0
+District,Guntur,Annual,884.4,59.0
+District,Krishna,June,128.5,57.0
+District,Krishna,July,196.6,42.0
+District,Krishna,August,207.7,39.0
+District,Krishna,September,166.2,48.0
+District,Krishna,JJAS (SW Monsoon),699.0,26.0
+District,Krishna,Annual,1048.6,55.0
+District,Kurnool,June,89.5,86.0
+District,Kurnool,July,103.6,50.0
+District,Kurnool,August,128.3,45.0
+District,Kurnool,September,135.6,47.0
+District,Kurnool,JJAS (SW Monsoon),456.9,31.0
+District,Kurnool,Annual,674.2,51.0
+District,Nellore,June,58.7,345.0
+District,Nellore,July,81.0,57.0
+District,Nellore,August,93.8,55.0
+District,Nellore,September,93.4,44.0
+District,Nellore,JJAS (SW Monsoon),327.0,81.0
+District,Nellore,Annual,1060.6,55.0
+District,Prakasam,June,65.5,86.0
+District,Prakasam,July,87.4,53.0
+District,Prakasam,August,107.9,60.0
+District,Prakasam,September,127.3,47.0
+District,Prakasam,JJAS (SW Monsoon),388.1,32.0
+District,Prakasam,Annual,815.9,62.0
+District,Srikakulam,June,146.1,52.0
+District,Srikakulam,July,192.8,32.0
+District,Srikakulam,August,207.5,37.0
+District,Srikakulam,September,196.2,37.0
+District,Srikakulam,JJAS (SW Monsoon),742.6,18.0
+District,Srikakulam,Annual,1154.6,40.0
+District,Visakhapatnam,June,151.0,56.0
+District,Visakhapatnam,July,182.4,36.0
+District,Visakhapatnam,August,187.7,32.0
+District,Visakhapatnam,September,202.2,37.0
+District,Visakhapatnam,JJAS (SW Monsoon),723.4,19.0
+District,Visakhapatnam,Annual,1170.1,53.0
+District,Vizianagaram,June,143.7,154.0
+District,Vizianagaram,July,171.7,30.0
+District,Vizianagaram,August,196.6,36.0
+District,Vizianagaram,September,196.2,38.0
+District,Vizianagaram,JJAS (SW Monsoon),708.2,47.0
+District,Vizianagaram,Annual,1094.2,69.0
+District,West Godavari,June,132.5,59.0
+District,West Godavari,July,227.0,37.0
+District,West Godavari,August,233.5,43.0
+District,West Godavari,September,180.8,47.0
+District,West Godavari,JJAS (SW Monsoon),773.9,27.0
+District,West Godavari,Annual,1125.3,54.0
